@@ -1,0 +1,272 @@
+
+*{
+	margin: 0;
+	background-color: #fff;
+}
+button{
+	border: black;
+}
+.contenedor00{
+	height: 200px;
+	background-color: #9D0D0D;
+}
+.logo{
+	margin-left: 40px;
+	background-color: #9D0D0D;
+	height: 200px;
+	position: relative;
+	bottom: 200px;
+}
+.logo2{
+	background-color: #9D0D0D;
+	width: 100%;
+	height: 200px;
+	position: relative;
+}
+/* BOTONES DIRECCINES*/
+.botones{
+	background-color: #9D0D0D;
+	width: 100%;
+	color: black;
+	padding-bottom: 10px;
+}
+.inicio{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-right: 10px;
+	outline: #790b0b solid 2px;
+}
+.noticias{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	outline: #790b0b solid 2px;
+}
+.sobrenosotros{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-left: 10px;
+	outline: #790b0b solid 2px;
+}
+/**/
+/* NOTICIAS*/
+.contenedor0{
+	width: 100%;
+	text-align: center;
+	background-color: #fff;
+}
+/*Noticia1*/
+.contenedor1{
+width: 100%;
+text-align: center;
+}
+.imagen{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+
+.noticia1{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a1{
+	color: black;
+	text-decoration: none;
+}
+.data1{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*Noticia2*/
+.contenedor2{
+width: 100%;
+text-align: center;
+}
+.imagen2{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+.noticia2{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a2{
+	color: black;
+	text-decoration: none;
+}
+.data2{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*Noticia3*/
+.contenedor3{
+width: 100%;
+text-align: center;
+}
+.imagen3{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+.noticia3{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a3{
+	color: black;
+	text-decoration: none;
+}
+.data3{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*Noticia4*/
+.contenedor4{
+width: 100%;
+text-align: center;
+}
+.imagen4{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+.noticia4{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a4{
+	color: black;
+	text-decoration: none;
+}
+.data4{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*Noticia5*/
+.contenedor5{
+width: 100%;
+text-align: center;
+}
+.imagen5{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+.noticia5{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a5{
+	color: black;
+	text-decoration: none;
+}
+.data5{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*Noticia6*/
+.contenedor6{
+width: 100%;
+text-align: center;
+}
+.imagen6{
+	width: 400px;
+	height: 300px;
+	outline: #9D0D0D solid 4px;
+	border-radius: 10px;
+}
+.noticia6{
+	padding: 0;
+	width: 100%;
+	font-weight: 500;
+	font-size: 20px;
+	position: relative;
+}
+.a6{
+	color: black;
+	text-decoration: none;
+}
+.data6{
+	margin-bottom: 50px;
+	padding: 0;
+	width: 100%;
+	font-weight: 200;
+	font-size: 15px;
+	position: relative;
+}
+/**/
+
+/*FOOTER*/
+footer{
+	background-color: #9D0D0D;
+	width: 100%;
+	height: 50px;
+}
+.contacto{
+	background-color: #9D0D0D;
+	font-size: 20px;
+	font-weight: 600;
+	color: rgb(49, 47, 47);
+	text-decoration: none;
+	margin-left: 20px;
+}
+

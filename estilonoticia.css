@@ -1,0 +1,94 @@
+
+*{
+	margin: 0;
+	background-color: #fff;
+}
+button{
+	border: black;
+}
+.contenedor00{
+	height: 200px;
+	background-color: #9D0D0D;
+}
+.logo{
+	margin-left: 40px;
+	background-color: #9D0D0D;
+	height: 200px;
+	position: relative;
+	bottom: 200px;
+
+}
+.logo2{
+	background-color: #9D0D0D;
+	width: 100%;
+	height: 200px;
+	position: relative;
+}
+/* BOTONES DIRECCINES*/
+.botones{
+	background-color: #9D0D0D;
+	width: 100%;
+	position: relative;
+	color: black;
+	padding-bottom: 10px;
+}
+.inicio{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-right: 10px;
+	outline: #790b0b solid 2px;
+}
+.noticias{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	outline: #790b0b solid 2px;
+}
+.sobrenosotros{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-style: oblique;
+	font-weight: 500;
+	font-size: 20px;
+	margin-left: 10px;
+	outline: #790b0b solid 2px;
+}
+/**/
+.contenedor1{
+ width: 100%;
+}
+.imagen1{
+	width: 100%;
+	height: 200px;
+}
+.titulo{
+	background-color: #f3f3f3;
+	padding-top: 20px;
+}
+.contenido{
+	font-weight: 500;
+	margin: 10px;
+}
+.data{
+	margin-left: 10px;
+	font-size: 15px;
+}
+
+/*FOOTER*/
+footer{
+	background-color: #9D0D0D;
+	width: 100%;
+	height: 50px;
+}
+.contacto{
+	background-color: #9D0D0D;
+	font-size: 20px;
+	font-weight: 600;
+	color: rgb(49, 47, 47);
+	text-decoration: none;
+	margin-left: 20px;
+}
